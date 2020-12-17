@@ -1,0 +1,72 @@
+.subjudul{
+	color: #9d7463;
+	text-align: center;
+	background: #eaeaea;
+	padding: 1px;
+	margin-bottom: -20px;
+	margin-top: -20px;
+}
+body{
+	background-color: #dfdbd8; 
+}
+.imgSub{
+  max-width: 100%;
+  height: auto;
+}
+td img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.gambar2{
+	border-radius: 50%;
+}
+table {
+    table-layout: auto;
+    border-collapse: collapse;
+    width: 100%;
+}
+.judul{
+	text-align: right;
+}
+.nav{
+	display: inline;
+}
+
+div.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  padding: 5px;
+  background-color: #dfdbd8;
+  
+  text-align: right;
+}
+
+#blendmode{
+	background-image: url("kursi.jpg");
+  background-image: url("kursi.jpg");
+}
+#myDIV { 
+ height: 100%;
+ width: 100%;
+  background-repeat: no-repeat, repeat;
+  background-image: url("kursi.jpg"),url("rock.jpg");
+  background-blend-mode: lighten;
+  background-position: center;  
+
+}
+.xx{
+  border:10px solid black;
+  border-bottom-color: red;
+  border-left-color: coral; 
+  border-right-color: blue;
+  border-spacing: 15px;
+   border-collapse: separate;
+ }
+ .border-Ar-Poem{
+   
+  border-spacing: 15px;
+  border : 1px solid black;
+ }
